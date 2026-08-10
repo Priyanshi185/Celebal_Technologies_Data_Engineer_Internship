@@ -1,0 +1,17 @@
+
+=== DATA CLEANING REPORT ===
+
+1. Orders Cleaned:
+   - NULL customer_ids filled with UNKNOWN
+   - Wrong date formats fixed to YYYY-MM-DD HH:MM:SS
+
+2. Products Cleaned:
+   - Product names trimmed and converted to Title Case
+
+3. Invalid Emails Found: 9
+   - Customer IDs: ['CUST0076', 'CUST0161', 'CUST0204', 'CUST0242', 'CUST0349']
+
+4. Referential Integrity Issues: 0
+   - Order items referencing non-existent orders
+
+============================

@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Bedsheet 1,Home,Bedsheet,2888.76
+PROD0002,  Jacket   2,Clothing,Jacket,847.59
+PROD0003,Saree 3,Clothing,Saree,3166.23
+PROD0004,  Pillow   4,Home,Pillow,243.99
+PROD0005,Smart Watch 5,Electronics,Smart Watch,2882.73
+PROD0006,Charger 6,Electronics,Charger,326.76
+PROD0007,Rug 7,Home,Rug,1328.39
+PROD0008,Data Science 8,Books,Data Science,941.19
+PROD0009,Self Help 9,Books,Self Help,4793.28
+PROD0010,Mirror 10,Home,Mirror,3016.82
+PROD0011,Camera 11,Electronics,Camera,2839.84
+PROD0012,JEANS 12,Clothing,JEANS,142.17
+PROD0013,Comics 13,Books,Comics,3611.76
+PROD0014,Mirror 14,Home,Mirror,3325.64
+PROD0015,biography 15,Books,biography,1453.1
+PROD0016,Biography 16,Books,Biography,474.46
+PROD0017,Smart Watch 17,Electronics,Smart Watch,2273.56
+PROD0018,History Book 18,Books,History Book,4964.24
+PROD0019,Mirror 19,Home,Mirror,4343.15
+PROD0020,  Shoes   20,Clothing,Shoes,894.31
+PROD0021,History Book 21,Books,History Book,4160.3
+PROD0022,Jeans 22,Clothing,Jeans,3024.15
+PROD0023,Lamp 23,Home,Lamp,3983.35
+PROD0024,Smartphone 24,Electronics,Smartphone,4111.24
+PROD0025,Fiction Novel 25,Books,Fiction Novel,950.33
+PROD0026,Lamp 26,Home,Lamp,3315.26
+PROD0027,Rug 27,Home,Rug,1359.38
+PROD0028,Mirror 28,Home,Mirror,3634.72
+PROD0029,Charger 29,Electronics,Charger,1746.22
+PROD0030,T-Shirt 30,Clothing,T-Shirt,2294.68
+PROD0031,Fiction Novel 31,Books,Fiction Novel,2973.45
+PROD0032,HEADPHONES 32,Electronics,HEADPHONES,1187.58
+PROD0033,Clock 33,Home,Clock,1958.04
+PROD0034,Python Programming 34,Books,Python Programming,587.42
+PROD0035,Comics 35,Books,Comics,1051.63
+PROD0036,Mirror 36,Home,Mirror,4304.98
+PROD0037,Rug 37,Home,Rug,2546.58
+PROD0038,Jacket 38,Clothing,Jacket,2127.99
+PROD0039,Cookbook 39,Books,Cookbook,790.33
+PROD0040,Vase 40,Home,Vase,526.68
+PROD0041,Cookbook 41,Books,Cookbook,2405.55
+PROD0042,Bedsheet 42,Home,Bedsheet,3093.0
+PROD0043,Self Help 43,Books,Self Help,243.23
+PROD0044,Lamp 44,Home,Lamp,3930.15
+PROD0045,  Headphones   45,Electronics,Headphones,2541.48
+PROD0046,Cookbook 46,Books,Cookbook,631.71
+PROD0047,Tablet 47,Electronics,Tablet,2437.09
+PROD0048,Self Help 48,Books,Self Help,695.13
+PROD0049,Laptop 49,Electronics,Laptop,3037.2
+PROD0050,Tablet 50,Electronics,Tablet,4146.23
+PROD0051,Speaker 51,Electronics,Speaker,4490.0
+PROD0052,PILLOW 52,Home,PILLOW,3885.61
+PROD0053,Camera 53,Electronics,Camera,3263.7
+PROD0054,Fiction Novel 54,Books,Fiction Novel,2634.12
+PROD0055,Camera 55,Electronics,Camera,1883.37
+PROD0056,T-Shirt 56,Clothing,T-Shirt,265.02
+PROD0057,Saree 57,Clothing,Saree,2672.59
+PROD0058,COOKBOOK 58,Books,COOKBOOK,1185.96
+PROD0059,Tablet 59,Electronics,Tablet,4021.39
+PROD0060,Smart Watch 60,Electronics,Smart Watch,3958.3
+PROD0061,Vase 61,Home,Vase,1937.12
+PROD0062,CURTAINS 62,Home,CURTAINS,2965.79
+PROD0063,Charger 63,Electronics,Charger,3719.9
+PROD0064,Bedsheet 64,Home,Bedsheet,3819.62
+PROD0065,Kurta 65,Clothing,Kurta,3498.7
+PROD0066,Clock 66,Home,Clock,533.7
+PROD0067,Kurta 67,Clothing,Kurta,712.72
+PROD0068,COOKBOOK 68,Books,COOKBOOK,2411.85
+PROD0069,Smartphone 69,Electronics,Smartphone,1200.94
+PROD0070,Saree 70,Clothing,Saree,4302.31
+PROD0071,DRESS 71,Clothing,DRESS,1452.17
+PROD0072,Python Programming 72,Books,Python Programming,4389.99
+PROD0073,charger 73,Electronics,charger,2072.8
+PROD0074,pillow 74,Home,pillow,985.65
+PROD0075,  Bedsheet   75,Home,Bedsheet,3560.29
+PROD0076,CHARGER 76,Electronics,CHARGER,3957.64
+PROD0077,Fiction Novel 77,Books,Fiction Novel,2911.04
+PROD0078,Cookbook 78,Books,Cookbook,633.25
+PROD0079,COMICS 79,Books,COMICS,85.61
+PROD0080,Shoes 80,Clothing,Shoes,3290.0
+PROD0081,Kurta 81,Clothing,Kurta,3454.45
+PROD0082,Comics 82,Books,Comics,1613.71
+PROD0083,Lamp 83,Home,Lamp,1843.24
+PROD0084,Smartphone 84,Electronics,Smartphone,816.15
+PROD0085,headphones 85,Electronics,headphones,3275.3
+PROD0086,Headphones 86,Electronics,Headphones,1305.48
+PROD0087,T-Shirt 87,Clothing,T-Shirt,4282.14
+PROD0088,Mirror 88,Home,Mirror,2146.63
+PROD0089,  Sandals   89,Clothing,Sandals,1859.94
+PROD0090,  Sandals   90,Clothing,Sandals,1414.02
+PROD0091,Clock 91,Home,Clock,3419.0
+PROD0092,Jacket 92,Clothing,Jacket,3787.11
+PROD0093,Jacket 93,Clothing,Jacket,2095.48
+PROD0094,Speaker 94,Electronics,Speaker,3929.75
+PROD0095,Jacket 95,Clothing,Jacket,2438.22
+PROD0096,bedsheet 96,Home,bedsheet,1882.55
+PROD0097,Python Programming 97,Books,Python Programming,2796.81
+PROD0098,Dress 98,Clothing,Dress,1306.2
+PROD0099,Headphones 99,Electronics,Headphones,1567.93
+PROD0100,Self Help 100,Books,Self Help,1754.56
+PROD0101,Shoes 101,Clothing,Shoes,3542.2
+PROD0102,Vase 102,Home,Vase,3692.12
+PROD0103,Charger 103,Electronics,Charger,4282.24
+PROD0104,CLOCK 104,Home,CLOCK,3313.45
+PROD0105,SAREE 105,Clothing,SAREE,3751.68
+PROD0106,History Book 106,Books,History Book,2260.64
+PROD0107,Dress 107,Clothing,Dress,3511.59
+PROD0108,Biography 108,Books,Biography,850.89
+PROD0109,Dress 109,Clothing,Dress,1111.57
+PROD0110,  Smartphone   110,Electronics,Smartphone,2032.78
+PROD0111,Smartphone 111,Electronics,Smartphone,1725.27
+PROD0112,t-shirt 112,Clothing,t-shirt,2775.35
+PROD0113,BIOGRAPHY 113,Books,BIOGRAPHY,3500.43
+PROD0114,PYTHON PROGRAMMING 114,Books,PYTHON PROGRAMMING,3548.61
+PROD0115,VASE 115,Home,VASE,845.65
+PROD0116,  Fiction Novel   116,Books,Fiction Novel,4824.62
+PROD0117,Kurta 117,Clothing,Kurta,76.19
+PROD0118,CLOCK 118,Home,CLOCK,500.89
+PROD0119,Biography 119,Books,Biography,769.38
+PROD0120,SMARTPHONE 120,Electronics,SMARTPHONE,4633.02
+PROD0121,  Comics   121,Books,Comics,2205.12
+PROD0122,TABLET 122,Electronics,TABLET,367.2
+PROD0123,cookbook 123,Books,cookbook,1147.76
+PROD0124,Headphones 124,Electronics,Headphones,446.2
+PROD0125,HISTORY BOOK 125,Books,HISTORY BOOK,236.89
+PROD0126,smart watch 126,Electronics,smart watch,1952.41
+PROD0127,Pillow 127,Home,Pillow,4923.02
+PROD0128,Data Science 128,Books,Data Science,3089.13
+PROD0129,Cookbook 129,Books,Cookbook,2628.98
+PROD0130,CAMERA 130,Electronics,CAMERA,3572.45
+PROD0131,Self Help 131,Books,Self Help,3007.49
+PROD0132,COOKBOOK 132,Books,COOKBOOK,4731.29
+PROD0133,Rug 133,Home,Rug,4110.13
+PROD0134,fiction novel 134,Books,fiction novel,3219.44
+PROD0135,  Curtains   135,Home,Curtains,2222.91
+PROD0136,Sandals 136,Clothing,Sandals,1048.45
+PROD0137,  Mirror   137,Home,Mirror,3301.58
+PROD0138,Rug 138,Home,Rug,4029.35
+PROD0139,Sandals 139,Clothing,Sandals,1465.73
+PROD0140,  Laptop   140,Electronics,Laptop,216.37
+PROD0141,CLOCK 141,Home,CLOCK,3017.6
+PROD0142,Comics 142,Books,Comics,2603.28
+PROD0143,Saree 143,Clothing,Saree,1196.77
+PROD0144,Rug 144,Home,Rug,888.94
+PROD0145,Rug 145,Home,Rug,228.5
+PROD0146,self help 146,Books,self help,1234.32
+PROD0147,Cookbook 147,Books,Cookbook,51.42
+PROD0148,Cookbook 148,Books,Cookbook,829.35
+PROD0149,Jacket 149,Clothing,Jacket,4984.24
+PROD0150,Lamp 150,Home,Lamp,3909.38
+PROD0151,Self Help 151,Books,Self Help,1797.98
+PROD0152,Bedsheet 152,Home,Bedsheet,2005.96
+PROD0153,T-Shirt 153,Clothing,T-Shirt,2951.1
+PROD0154,  History Book   154,Books,History Book,2612.83
+PROD0155,Biography 155,Books,Biography,3697.78
+PROD0156,  Sandals   156,Clothing,Sandals,389.66
+PROD0157,Comics 157,Books,Comics,496.32
+PROD0158,Python Programming 158,Books,Python Programming,1458.24
+PROD0159,Laptop 159,Electronics,Laptop,4157.34
+PROD0160,Speaker 160,Electronics,Speaker,4579.29
+PROD0161,SMARTPHONE 161,Electronics,SMARTPHONE,1773.07
+PROD0162,Kurta 162,Clothing,Kurta,4818.27
+PROD0163,Shoes 163,Clothing,Shoes,1418.71
+PROD0164,Laptop 164,Electronics,Laptop,3051.5
+PROD0165,Rug 165,Home,Rug,1012.9
+PROD0166,charger 166,Electronics,charger,4652.08
+PROD0167,LAPTOP 167,Electronics,LAPTOP,2895.79
+PROD0168,Bedsheet 168,Home,Bedsheet,1342.48
+PROD0169,Saree 169,Clothing,Saree,2065.32
+PROD0170,Self Help 170,Books,Self Help,577.0
+PROD0171,COMICS 171,Books,COMICS,408.31
+PROD0172,Dress 172,Clothing,Dress,1506.55
+PROD0173,jacket 173,Clothing,jacket,4737.73
+PROD0174,Tablet 174,Electronics,Tablet,4024.56
+PROD0175,Cookbook 175,Books,Cookbook,4785.71
+PROD0176,Mirror 176,Home,Mirror,4386.76
+PROD0177,Bedsheet 177,Home,Bedsheet,4075.08
+PROD0178,Tablet 178,Electronics,Tablet,2895.72
+PROD0179,Sandals 179,Clothing,Sandals,3486.25
+PROD0180,Saree 180,Clothing,Saree,4831.97
+PROD0181,Python Programming 181,Books,Python Programming,2837.68
+PROD0182,Sandals 182,Clothing,Sandals,3861.34
+PROD0183,Comics 183,Books,Comics,3799.49
+PROD0184,Headphones 184,Electronics,Headphones,4808.13
+PROD0185,Dress 185,Clothing,Dress,2321.3
+PROD0186,Laptop 186,Electronics,Laptop,2330.57
+PROD0187,Charger 187,Electronics,Charger,2954.79
+PROD0188,  Jacket   188,Clothing,Jacket,185.39
+PROD0189,  Mirror   189,Home,Mirror,625.53
+PROD0190,Headphones 190,Electronics,Headphones,384.39
+PROD0191,Fiction Novel 191,Books,Fiction Novel,3186.63
+PROD0192,Camera 192,Electronics,Camera,4971.28
+PROD0193,Vase 193,Home,Vase,3400.72
+PROD0194,Tablet 194,Electronics,Tablet,1188.15
+PROD0195,Lamp 195,Home,Lamp,1612.87
+PROD0196,Curtains 196,Home,Curtains,4779.46
+PROD0197,  Clock   197,Home,Clock,2606.7
+PROD0198,Speaker 198,Electronics,Speaker,98.13
+PROD0199,rug 199,Home,rug,4169.28
+PROD0200,Charger 200,Electronics,Charger,1278.88
+PROD0201,Self Help 201,Books,Self Help,510.4
+PROD0202,Vase 202,Home,Vase,3384.8
+PROD0203,cookbook 203,Books,cookbook,4114.32
+PROD0204,Python Programming 204,Books,Python Programming,426.34
+PROD0205,Speaker 205,Electronics,Speaker,4660.41
+PROD0206,lamp 206,Home,lamp,2408.95
+PROD0207,VASE 207,Home,VASE,1800.01
+PROD0208,T-Shirt 208,Clothing,T-Shirt,4476.87
+PROD0209,sandals 209,Clothing,sandals,1381.93
+PROD0210,Data Science 210,Books,Data Science,4738.23
+PROD0211,Smartphone 211,Electronics,Smartphone,3431.38
+PROD0212,fiction novel 212,Books,fiction novel,4554.14
+PROD0213,Laptop 213,Electronics,Laptop,2520.05
+PROD0214,SAREE 214,Clothing,SAREE,1038.35
+PROD0215,Tablet 215,Electronics,Tablet,3690.37
+PROD0216,Sandals 216,Clothing,Sandals,4370.08
+PROD0217,Tablet 217,Electronics,Tablet,1073.55
+PROD0218,Cookbook 218,Books,Cookbook,1053.69
+PROD0219,Jacket 219,Clothing,Jacket,1285.99
+PROD0220,Curtains 220,Home,Curtains,3112.05
+PROD0221,Pillow 221,Home,Pillow,822.18
+PROD0222,data science 222,Books,data science,578.11
+PROD0223,Camera 223,Electronics,Camera,4604.93
+PROD0224,Cookbook 224,Books,Cookbook,3395.27
+PROD0225,  Smartphone   225,Electronics,Smartphone,3333.95
+PROD0226,T-Shirt 226,Clothing,T-Shirt,3088.44
+PROD0227,Clock 227,Home,Clock,3833.01
+PROD0228,JACKET 228,Clothing,JACKET,2730.3
+PROD0229,Headphones 229,Electronics,Headphones,259.2
+PROD0230,Smart Watch 230,Electronics,Smart Watch,2437.35
+PROD0231,HEADPHONES 231,Electronics,HEADPHONES,3122.3
+PROD0232,Data Science 232,Books,Data Science,2487.08
+PROD0233,JEANS 233,Clothing,JEANS,4927.54
+PROD0234,T-Shirt 234,Clothing,T-Shirt,4490.15
+PROD0235,Lamp 235,Home,Lamp,4350.41
+PROD0236,Smartphone 236,Electronics,Smartphone,2479.49
+PROD0237,bedsheet 237,Home,bedsheet,4922.75
+PROD0238,Shoes 238,Clothing,Shoes,4584.23
+PROD0239,  Headphones   239,Electronics,Headphones,1437.32
+PROD0240,HEADPHONES 240,Electronics,HEADPHONES,1149.36
+PROD0241,Clock 241,Home,Clock,2904.49
+PROD0242,Speaker 242,Electronics,Speaker,318.03
+PROD0243,Vase 243,Home,Vase,4006.39
+PROD0244,tablet 244,Electronics,tablet,2417.68
+PROD0245,Data Science 245,Books,Data Science,2726.8
+PROD0246,MIRROR 246,Home,MIRROR,2537.25
+PROD0247,Python Programming 247,Books,Python Programming,1998.9
+PROD0248,Dress 248,Clothing,Dress,3447.38
+PROD0249,kurta 249,Clothing,kurta,915.26
+PROD0250,  Pillow   250,Home,Pillow,4883.71
+PROD0251,History Book 251,Books,History Book,3506.31
+PROD0252,Python Programming 252,Books,Python Programming,2327.35
+PROD0253,Headphones 253,Electronics,Headphones,3461.59
+PROD0254,  Rug   254,Home,Rug,108.51
+PROD0255,Tablet 255,Electronics,Tablet,1093.22
+PROD0256,Speaker 256,Electronics,Speaker,2925.99
+PROD0257,Clock 257,Home,Clock,1660.91
+PROD0258,CURTAINS 258,Home,CURTAINS,3083.25
+PROD0259,Saree 259,Clothing,Saree,1335.52
+PROD0260,Dress 260,Clothing,Dress,2765.39
+PROD0261,Dress 261,Clothing,Dress,1223.84
+PROD0262,jacket 262,Clothing,jacket,2383.16
+PROD0263,LAMP 263,Home,LAMP,3084.77
+PROD0264,  Shoes   264,Clothing,Shoes,1861.32
+PROD0265,Vase 265,Home,Vase,2518.91
+PROD0266,SELF HELP 266,Books,SELF HELP,1092.14
+PROD0267,  Tablet   267,Electronics,Tablet,3518.53
+PROD0268,Saree 268,Clothing,Saree,1892.93
+PROD0269,  Smart Watch   269,Electronics,Smart Watch,4278.91
+PROD0270,Headphones 270,Electronics,Headphones,1434.17
+PROD0271,BEDSHEET 271,Home,BEDSHEET,940.45
+PROD0272,Python Programming 272,Books,Python Programming,699.14
+PROD0273,BIOGRAPHY 273,Books,BIOGRAPHY,2900.67
+PROD0274,Fiction Novel 274,Books,Fiction Novel,1181.41
+PROD0275,FICTION NOVEL 275,Books,FICTION NOVEL,544.36
+PROD0276,Jacket 276,Clothing,Jacket,1386.25
+PROD0277,Smart Watch 277,Electronics,Smart Watch,1217.24
+PROD0278,T-Shirt 278,Clothing,T-Shirt,2189.48
+PROD0279,Cookbook 279,Books,Cookbook,1935.37
+PROD0280,T-Shirt 280,Clothing,T-Shirt,771.93
+PROD0281,Pillow 281,Home,Pillow,4797.78
+PROD0282,Saree 282,Clothing,Saree,790.26
+PROD0283,Headphones 283,Electronics,Headphones,4038.06
+PROD0284,Saree 284,Clothing,Saree,924.21
+PROD0285,Pillow 285,Home,Pillow,2523.01
+PROD0286,Kurta 286,Clothing,Kurta,4978.03
+PROD0287,  Lamp   287,Home,Lamp,4254.48
+PROD0288,KURTA 288,Clothing,KURTA,2609.18
+PROD0289,Python Programming 289,Books,Python Programming,3616.77
+PROD0290,Lamp 290,Home,Lamp,3937.4
+PROD0291,Tablet 291,Electronics,Tablet,1535.17
+PROD0292,Bedsheet 292,Home,Bedsheet,2832.59
+PROD0293,Camera 293,Electronics,Camera,2860.78
+PROD0294,Biography 294,Books,Biography,2022.09
+PROD0295,Curtains 295,Home,Curtains,3468.19
+PROD0296,  Lamp   296,Home,Lamp,347.18
+PROD0297,Python Programming 297,Books,Python Programming,4078.4
+PROD0298,Jeans 298,Clothing,Jeans,2408.87
+PROD0299,Shoes 299,Clothing,Shoes,3167.82
+PROD0300,Camera 300,Electronics,Camera,2276.78
+PROD0301,camera 301,Electronics,camera,1706.55
+PROD0302,Biography 302,Books,Biography,1836.76
+PROD0303,Comics 303,Books,Comics,2823.73
+PROD0304,saree 304,Clothing,saree,4662.63
+PROD0305,Camera 305,Electronics,Camera,1325.69
+PROD0306,Fiction Novel 306,Books,Fiction Novel,148.18
+PROD0307,Camera 307,Electronics,Camera,650.13
+PROD0308,Speaker 308,Electronics,Speaker,4343.47
+PROD0309,T-Shirt 309,Clothing,T-Shirt,4817.43
+PROD0310,  Vase   310,Home,Vase,1034.84
+PROD0311,Biography 311,Books,Biography,2900.68
+PROD0312,  Rug   312,Home,Rug,3263.2
+PROD0313,Jacket 313,Clothing,Jacket,913.97
+PROD0314,biography 314,Books,biography,3912.53
+PROD0315,Fiction Novel 315,Books,Fiction Novel,1807.79
+PROD0316,Smart Watch 316,Electronics,Smart Watch,3382.3
+PROD0317,tablet 317,Electronics,tablet,2463.09
+PROD0318,Clock 318,Home,Clock,3695.8
+PROD0319,Comics 319,Books,Comics,4453.68
+PROD0320,Dress 320,Clothing,Dress,1936.3
+PROD0321,Tablet 321,Electronics,Tablet,1468.29
+PROD0322,Kurta 322,Clothing,Kurta,3176.98
+PROD0323,Self Help 323,Books,Self Help,767.0
+PROD0324,mirror 324,Home,mirror,879.5
+PROD0325,Comics 325,Books,Comics,4048.2
+PROD0326,Speaker 326,Electronics,Speaker,1720.07
+PROD0327,Laptop 327,Electronics,Laptop,3174.8
+PROD0328,Clock 328,Home,Clock,2879.61
+PROD0329,Python Programming 329,Books,Python Programming,4252.06
+PROD0330,Python Programming 330,Books,Python Programming,403.15
+PROD0331,charger 331,Electronics,charger,851.9
+PROD0332,Vase 332,Home,Vase,1179.68
+PROD0333,Headphones 333,Electronics,Headphones,1618.55
+PROD0334,vase 334,Home,vase,1492.21
+PROD0335,Self Help 335,Books,Self Help,1373.99
+PROD0336,Pillow 336,Home,Pillow,3240.99
+PROD0337,Fiction Novel 337,Books,Fiction Novel,1392.68
+PROD0338,kurta 338,Clothing,kurta,2252.25
+PROD0339,CHARGER 339,Electronics,CHARGER,4320.89
+PROD0340,Curtains 340,Home,Curtains,1847.67
+PROD0341,Smartphone 341,Electronics,Smartphone,2955.25
+PROD0342,Cookbook 342,Books,Cookbook,4829.35
+PROD0343,SMART WATCH 343,Electronics,SMART WATCH,2099.25
+PROD0344,Tablet 344,Electronics,Tablet,960.24
+PROD0345,Kurta 345,Clothing,Kurta,164.35
+PROD0346,Smartphone 346,Electronics,Smartphone,3652.47
+PROD0347,Headphones 347,Electronics,Headphones,3327.01
+PROD0348,Clock 348,Home,Clock,4705.16
+PROD0349,Dress 349,Clothing,Dress,3518.45
+PROD0350,Smartphone 350,Electronics,Smartphone,446.32
+PROD0351,vase 351,Home,vase,876.21
+PROD0352,Mirror 352,Home,Mirror,559.9
+PROD0353,Curtains 353,Home,Curtains,365.77
+PROD0354,Cookbook 354,Books,Cookbook,4399.52
+PROD0355,Vase 355,Home,Vase,2764.75
+PROD0356,Shoes 356,Clothing,Shoes,180.51
+PROD0357,Cookbook 357,Books,Cookbook,2015.21
+PROD0358,JACKET 358,Clothing,JACKET,3836.73
+PROD0359,Jacket 359,Clothing,Jacket,462.09
+PROD0360,Bedsheet 360,Home,Bedsheet,1349.14
+PROD0361,Cookbook 361,Books,Cookbook,818.61
+PROD0362,CHARGER 362,Electronics,CHARGER,3291.42
+PROD0363,Charger 363,Electronics,Charger,4433.08
+PROD0364,History Book 364,Books,History Book,1581.38
+PROD0365,Shoes 365,Clothing,Shoes,1274.61
+PROD0366,Fiction Novel 366,Books,Fiction Novel,1456.67
+PROD0367,Cookbook 367,Books,Cookbook,3151.08
+PROD0368,Charger 368,Electronics,Charger,699.82
+PROD0369,Dress 369,Clothing,Dress,4200.66
+PROD0370,Comics 370,Books,Comics,191.43
+PROD0371,Headphones 371,Electronics,Headphones,3334.57
+PROD0372,T-Shirt 372,Clothing,T-Shirt,4308.83
+PROD0373,Vase 373,Home,Vase,1659.75
+PROD0374,Jeans 374,Clothing,Jeans,2406.97
+PROD0375,Clock 375,Home,Clock,4876.16
+PROD0376,Cookbook 376,Books,Cookbook,2725.89
+PROD0377,Python Programming 377,Books,Python Programming,1398.45
+PROD0378,Tablet 378,Electronics,Tablet,2251.98
+PROD0379,History Book 379,Books,History Book,4849.23
+PROD0380,  Laptop   380,Electronics,Laptop,3503.23
+PROD0381,Speaker 381,Electronics,Speaker,926.33
+PROD0382,Kurta 382,Clothing,Kurta,3008.04
+PROD0383,Smart Watch 383,Electronics,Smart Watch,3173.69
+PROD0384,Laptop 384,Electronics,Laptop,3197.46
+PROD0385,Jacket 385,Clothing,Jacket,2841.72
+PROD0386,History Book 386,Books,History Book,2641.13
+PROD0387,  Cookbook   387,Books,Cookbook,3215.66
+PROD0388,Laptop 388,Electronics,Laptop,1582.82
+PROD0389,Laptop 389,Electronics,Laptop,1768.48
+PROD0390,Dress 390,Clothing,Dress,2721.36
+PROD0391,Tablet 391,Electronics,Tablet,4033.3
+PROD0392,  Clock   392,Home,Clock,2237.21
+PROD0393,Smartphone 393,Electronics,Smartphone,1860.63
+PROD0394,Rug 394,Home,Rug,1336.04
+PROD0395,Mirror 395,Home,Mirror,1552.69
+PROD0396,Clock 396,Home,Clock,50.46
+PROD0397,Jeans 397,Clothing,Jeans,4086.13
+PROD0398,Jeans 398,Clothing,Jeans,4247.34
+PROD0399,Fiction Novel 399,Books,Fiction Novel,1752.23
+PROD0400,Dress 400,Clothing,Dress,2372.53
+PROD0401,Laptop 401,Electronics,Laptop,91.17
+PROD0402,Shoes 402,Clothing,Shoes,4614.34
+PROD0403,Self Help 403,Books,Self Help,4737.44
+PROD0404,T-SHIRT 404,Clothing,T-SHIRT,2411.48
+PROD0405,dress 405,Clothing,dress,95.21
+PROD0406,cookbook 406,Books,cookbook,2180.65
+PROD0407,Sandals 407,Clothing,Sandals,1499.97
+PROD0408,Data Science 408,Books,Data Science,1194.52
+PROD0409,Python Programming 409,Books,Python Programming,85.73
+PROD0410,Laptop 410,Electronics,Laptop,1899.54
+PROD0411,dress 411,Clothing,dress,2088.09
+PROD0412,Dress 412,Clothing,Dress,2824.74
+PROD0413,Rug 413,Home,Rug,2004.02
+PROD0414,Mirror 414,Home,Mirror,858.18
+PROD0415,BEDSHEET 415,Home,BEDSHEET,3698.73
+PROD0416,Dress 416,Clothing,Dress,1979.13
+PROD0417,Smart Watch 417,Electronics,Smart Watch,1922.87
+PROD0418,Self Help 418,Books,Self Help,1351.75
+PROD0419,SPEAKER 419,Electronics,SPEAKER,2140.08
+PROD0420,Charger 420,Electronics,Charger,1235.83
+PROD0421,  Python Programming   421,Books,Python Programming,3834.46
+PROD0422,Biography 422,Books,Biography,4554.27
+PROD0423,Saree 423,Clothing,Saree,4047.5
+PROD0424,Clock 424,Home,Clock,3438.97
+PROD0425,Jacket 425,Clothing,Jacket,1459.15
+PROD0426,Saree 426,Clothing,Saree,3727.49
+PROD0427,Mirror 427,Home,Mirror,4053.6
+PROD0428,Kurta 428,Clothing,Kurta,2093.87
+PROD0429,Saree 429,Clothing,Saree,4274.74
+PROD0430,Camera 430,Electronics,Camera,952.92
+PROD0431,history book 431,Books,history book,1483.5
+PROD0432,  Smartphone   432,Electronics,Smartphone,3202.62
+PROD0433,Headphones 433,Electronics,Headphones,3107.76
+PROD0434,Lamp 434,Home,Lamp,1397.06
+PROD0435,Camera 435,Electronics,Camera,3132.63
+PROD0436,Sandals 436,Clothing,Sandals,979.56
+PROD0437,Pillow 437,Home,Pillow,146.01
+PROD0438,PILLOW 438,Home,PILLOW,295.68
+PROD0439,Curtains 439,Home,Curtains,2698.11
+PROD0440,Shoes 440,Clothing,Shoes,970.39
+PROD0441,jacket 441,Clothing,jacket,556.25
+PROD0442,Jeans 442,Clothing,Jeans,1382.52
+PROD0443,Saree 443,Clothing,Saree,3590.22
+PROD0444,t-shirt 444,Clothing,t-shirt,3649.18
+PROD0445,rug 445,Home,rug,1202.41
+PROD0446,Curtains 446,Home,Curtains,795.88
+PROD0447,Sandals 447,Clothing,Sandals,2493.22
+PROD0448,Shoes 448,Clothing,Shoes,1742.47
+PROD0449,Python Programming 449,Books,Python Programming,1592.3
+PROD0450,T-Shirt 450,Clothing,T-Shirt,4007.34
+PROD0451,speaker 451,Electronics,speaker,4989.92
+PROD0452,Rug 452,Home,Rug,2345.24
+PROD0453,Bedsheet 453,Home,Bedsheet,3967.55
+PROD0454,Laptop 454,Electronics,Laptop,1684.73
+PROD0455,Data Science 455,Books,Data Science,4225.55
+PROD0456,Data Science 456,Books,Data Science,4760.64
+PROD0457,PILLOW 457,Home,PILLOW,327.39
+PROD0458,Tablet 458,Electronics,Tablet,3889.48
+PROD0459,Jacket 459,Clothing,Jacket,403.35
+PROD0460,pillow 460,Home,pillow,2377.23
+PROD0461,  Smartphone   461,Electronics,Smartphone,1001.35
+PROD0462,smart watch 462,Electronics,smart watch,4215.62
+PROD0463,Comics 463,Books,Comics,4095.39
+PROD0464,Saree 464,Clothing,Saree,4149.85
+PROD0465,Lamp 465,Home,Lamp,653.71
+PROD0466,Pillow 466,Home,Pillow,3852.32
+PROD0467,Speaker 467,Electronics,Speaker,1282.36
+PROD0468,Curtains 468,Home,Curtains,3867.57
+PROD0469,Saree 469,Clothing,Saree,2242.66
+PROD0470,T-Shirt 470,Clothing,T-Shirt,3701.21
+PROD0471,  Data Science   471,Books,Data Science,215.88
+PROD0472,Headphones 472,Electronics,Headphones,2331.13
+PROD0473,Kurta 473,Clothing,Kurta,3866.43
+PROD0474,Rug 474,Home,Rug,2629.64
+PROD0475,Shoes 475,Clothing,Shoes,4911.47
+PROD0476,Curtains 476,Home,Curtains,2390.49
+PROD0477,Mirror 477,Home,Mirror,3423.14
+PROD0478,Biography 478,Books,Biography,1594.94
+PROD0479,Jeans 479,Clothing,Jeans,1649.16
+PROD0480,Jacket 480,Clothing,Jacket,3164.36
+PROD0481,Smartphone 481,Electronics,Smartphone,258.82
+PROD0482,T-Shirt 482,Clothing,T-Shirt,4690.23
+PROD0483,Fiction Novel 483,Books,Fiction Novel,2628.58
+PROD0484,Lamp 484,Home,Lamp,1303.9
+PROD0485,Headphones 485,Electronics,Headphones,3210.67
+PROD0486,Saree 486,Clothing,Saree,1033.68
+PROD0487,  Dress   487,Clothing,Dress,4443.22
+PROD0488,SELF HELP 488,Books,SELF HELP,4325.11
+PROD0489,CURTAINS 489,Home,CURTAINS,1128.05
+PROD0490,Shoes 490,Clothing,Shoes,609.0
+PROD0491,Camera 491,Electronics,Camera,3182.9
+PROD0492,Vase 492,Home,Vase,1656.34
+PROD0493,cookbook 493,Books,cookbook,878.43
+PROD0494,Clock 494,Home,Clock,1416.7
+PROD0495,rug 495,Home,rug,642.27
+PROD0496,  Dress   496,Clothing,Dress,3956.26
+PROD0497,Curtains 497,Home,Curtains,94.2
+PROD0498,Headphones 498,Electronics,Headphones,257.87
+PROD0499,Biography 499,Books,Biography,3928.2
+PROD0500,HEADPHONES 500,Electronics,HEADPHONES,2402.59
